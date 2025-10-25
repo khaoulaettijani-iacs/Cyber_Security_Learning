@@ -1,5 +1,3 @@
-##  1. Cybersecurity Learning — `README.md`
-
 # Cybersecurity Learning Roadmap
 Welcome to my **Cybersecurity Learning Repository** — a complete roadmap documenting my journey toward mastering **Cybersecurity, Ethical Hacking and Cyber defense**.
 This repository includes concepts, notes, and practical exercises that I’m using to build a strong foundation in the world of **defensive and offensive security**.
